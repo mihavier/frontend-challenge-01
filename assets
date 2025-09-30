@@ -1,1 +1,3 @@
-assets/images/.gitkeep
+git add assets
+git commit -m "Add assets folder with images"
+git push origin main  # yoki master, sizning branch nomingizga qarab
