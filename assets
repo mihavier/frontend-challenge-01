@@ -1,1 +1,4 @@
+git rm -r assets
+git commit -m "Remove assets folder"
+git push origin main
 
